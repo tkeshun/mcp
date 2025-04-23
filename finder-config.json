@@ -11,5 +11,5 @@
       "dir": "./github-mcp-server/e2e",
       "path_pattern": "**/*.go"
     }
-  ]
+]
   

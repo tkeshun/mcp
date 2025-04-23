@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+      "current-time": {
+        "command": "./current-time-server",
+        "args": [],
+        "env": {
+        }
+      },
+      "file-finder": {
+        "command": "./mcp-file-finder",
+        "args": [],
+        "env": {
+          "ROOT_DIR": "./test",
+          "CONFIG_PATH": "./finder-config.json"
+        }
+      }
+    }
+}

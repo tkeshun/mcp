@@ -1,0 +1,15 @@
+[
+    {
+      "name": "docs_query",
+      "description": ".vscode以下の情報を取得します。vscodeなどの設定がほしい場合に使用してください",
+      "dir": "./github-mcp-server/.vscode",
+      "path_pattern": "**"
+    },
+    {
+      "name": "e2e_code_query",
+      "description": "ソースコードファイルを読み込みます。E2Eテストのコードです。",
+      "dir": "./github-mcp-server/e2e",
+      "path_pattern": "**/*.go"
+    }
+  ]
+  
